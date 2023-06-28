@@ -1,5 +1,5 @@
 import './App.css';
-import FortuneCookie from './components/fortuneCookie';
+import FortuneCookie from './components/FortuneCookie';
 import Button from './components/Button';
 import phrases from './data/phrases.json';
 import { useState, useEffect } from 'react';
