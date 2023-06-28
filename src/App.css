@@ -35,6 +35,12 @@ body {
     color: #55534f;
 }
 
+@media (max-width: 480px) {
+    .title {
+        text-align: center;
+    }
+}
+
 .button {
     display: block;
     margin: 0 auto;
